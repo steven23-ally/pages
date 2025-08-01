@@ -1,12 +1,12 @@
 h1 {
-  color: black;
+  color:greenyellow;
   font-family: "Times New Roman", Times, serif;
 }
 .beg {
   display: flex;
   flex-direction: column;
   background-color: rgb(150, 142, 142);
-  color: rgb(36, 36, 58);
+  color:rgb(36, 36, 58);
   width: fit-content;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 17px;
@@ -36,7 +36,7 @@ h1 {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: rgb(36, 36, 58);
+  background-color:rgb(36, 36, 58) ;
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -94,7 +94,7 @@ body {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: rgb(36, 36, 58);
+  background-color:rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -163,6 +163,7 @@ body {
   font-size: 10.1px;
   font-weight: bolder;
   width: fit-content;
+  background-color: rgb(36, 36, 58) ;
 }
 .document {
   color: red;
@@ -206,31 +207,31 @@ body {
     font-size: 8px;
     width: 23.3rem;
   }
-
-  .miguel {
+  
+  .miguel{
     font-size: 8px;
     width: 23.3rem;
   }
-  .image4 {
+  .image4{
     width: 23.3rem;
   }
-  .box4 {
+  .box4{
     background-color: brown;
     display: flex;
     flex-direction: column;
   }
-  .mama {
+  .mama{
     font-size: 8px;
     width: 23.3rem;
   }
-  .iron {
+  .iron{
     font-size: 8px;
     width: 23.3rem;
   }
-  .image5 {
+  .image5{
     width: 23.3rem;
   }
-  .document {
+  .document{
     font-size: 30px;
   }
 }
