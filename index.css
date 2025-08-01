@@ -49,9 +49,7 @@ body {
   gap: 7px;
   background-color: rgb(17, 17, 17);
 }
-.box1 > :hover {
-  color: aqua;
-}
+
 .body {
   display: flex;
   flex-direction: row;
@@ -173,9 +171,66 @@ body {
 
   justify-content: center;
 }
-@media only screen and (max-width:600px) {
-  body{
-    background-color: black;
+@media (max-width: 600px) {
+  .body {
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+  }
+  .box1 {
+    font-size: 8px;
+  }
+  .image1 {
+    width: 23.31rem;
+  }
+  .shaolin {
+    font-size: 8px;
+    width: 23.31rem;
+  }
+  .image2 {
+    width: 23rem;
+  }
+  .box2 {
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+  }
+  .roller {
+    font-size: 8px;
+    width: 23.31rem;
+  }
+  .image3 {
+    width: 23.31rem;
+  }
+  .bad {
+    font-size: 8px;
+    width: 23.31rem;
   }
   
+  .miguel{
+    font-size: 8px;
+    width: 23.31rem;
+  }
+  .image4{
+    width: 23.31rem;
+  }
+  .box4{
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+  }
+  .mama{
+    font-size: 8px;
+    width: 23.31rem;
+  }
+  .iron{
+    font-size: 8px;
+    width: 23.31rem;
+  }
+  .image5{
+    width: 23.31rem;
+  }
+  .document{
+    font-size: 30px;
+  }
 }
