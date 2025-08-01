@@ -6,7 +6,7 @@ h1 {
   display: flex;
   flex-direction: column;
   background-color: rgb(150, 142, 142);
-  color: red;
+  color:rgb(36, 36, 58);
   width: fit-content;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 17px;
@@ -36,7 +36,7 @@ h1 {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: red;
+  background-color:rgb(36, 36, 58) ;
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -54,14 +54,14 @@ body {
   display: flex;
   flex-direction: row;
   gap: 10px;
-  background-color: rgb(5, 71, 71);
+  /* background-color: rgb(5, 71, 71); */
   justify-content: space-around;
 }
 .shaolin {
   display: flex;
   flex-direction: column;
   width: 430px;
-  background-color: red;
+  background-color: rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -72,7 +72,7 @@ body {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: red;
+  background-color: rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -83,7 +83,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 400px;
-  background-color: red;
+  background-color: rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -94,7 +94,7 @@ body {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: red;
+  background-color:rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -105,7 +105,7 @@ body {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: red;
+  background-color: rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -116,14 +116,14 @@ body {
   display: flex;
   flex-direction: row;
   gap: 10px;
-  background-color: rgb(5, 71, 71);
+  /* background-color: rgb(5, 71, 71); */
   justify-content: space-around;
 }
 .miguel {
   display: flex;
   flex-direction: column;
   width: 800px;
-  background-color: red;
+  background-color: rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -139,7 +139,7 @@ body {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: red;
+  background-color: rgb(36, 36, 58);
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -150,14 +150,14 @@ body {
   display: flex;
   flex-direction: row;
   gap: 10px;
-  background-color: rgb(5, 71, 71);
+  /* background-color: rgb(5, 71, 71); */
   justify-content: space-around;
 }
 .iron {
   display: flex;
   flex-direction: column;
   /* width: 400px; */
-  background-color: red;
+  /* background-color:rgb(36, 36, 58); */
   color: rgb(150, 142, 142);
   align-items: start;
   font-size: 10.1px;
@@ -197,22 +197,22 @@ body {
   }
   .roller {
     font-size: 8px;
-    width: 23.31rem;
+    width: 23.3rem;
   }
   .image3 {
-    width: 23.31rem;
+    width: 23.3rem;
   }
   .bad {
     font-size: 8px;
-    width: 23.31rem;
+    width: 23.3rem;
   }
   
   .miguel{
     font-size: 8px;
-    width: 23.31rem;
+    width: 23.3rem;
   }
   .image4{
-    width: 23.31rem;
+    width: 23.3rem;
   }
   .box4{
     background-color: brown;
@@ -221,14 +221,14 @@ body {
   }
   .mama{
     font-size: 8px;
-    width: 23.31rem;
+    width: 23.3rem;
   }
   .iron{
     font-size: 8px;
-    width: 23.31rem;
+    width: 23.3rem;
   }
   .image5{
-    width: 23.31rem;
+    width: 23.3rem;
   }
   .document{
     font-size: 30px;
